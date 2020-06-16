@@ -37,3 +37,7 @@ I'll use Github Desktop as the example for this, but plenty of tools allow you t
 3. Type a summary in the box at the bottom and hit "Commit to **someBranchName**"
 4. Then press "Push origin". If this fails with authentication problems, you can just submit in terminal by cd'ing into the root of your repository and typing `git push`
 5. At this point, navigate to the repo online and you should see an option to Create a PR for everyone to see.
+
+## Other Sources
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
+  - Interactive step-by-step examples with guidance/lessons to teach basic commands
